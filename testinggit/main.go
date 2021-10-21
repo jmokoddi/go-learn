@@ -9,5 +9,7 @@ func main() {
 	// one way - declare then assign (two steps)
 	firstNumber := 2
 
-	fmt.Println("This thing is neat " + strconv.Itoa(firstNumber))
+	// Lets fix our grammar
+	fmt.Println("This item is neat " + strconv.Itoa(firstNumber))
+
 }
