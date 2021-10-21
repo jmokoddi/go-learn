@@ -12,4 +12,6 @@ func main() {
 	fmt.Println("This thing is neat " + strconv.Itoa(firstNumber))
 
 	fmt.Println("This is my new feature")
+
+	fmt.Println(("This is the second new feature!"))
 }
